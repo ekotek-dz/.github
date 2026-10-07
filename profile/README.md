@@ -31,7 +31,7 @@ The system has three parts:
 
 ## Status
 
-EKOTEK is an early-stage startup from Algeria. The vision prototype is public; the product itself, the bin design and any client data stay private.
+EKOTEK is an early-stage startup from Algeria. The product itself, the bin design and any client data is private.
 
 ## Tech we use
 
@@ -39,7 +39,8 @@ Python · PyTorch · Ultralytics YOLO · OpenCV · ONNX Runtime · OpenVINO · C
 
 ## Get in touch
 
+- Visit Our Website: [linktree](https://linktr.ee/ekotekdz)
 - LinkedIn: [EKOTEK](https://www.linkedin.com/company/ekotek-ai)
-- Email: ekotekdz@gmail.com <!-- TODO: replace with the real address -->
+- Email: ekotekdz@gmail.com
 
 <sub>🌱 Building in Algeria, for kitchens everywhere.</sub>
