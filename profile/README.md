@@ -29,12 +29,6 @@ The system has three parts:
 | AI models | Food segmentation and classification, contamination detection, running on the edge |
 | Dashboard & data | Event ingestion, storage, analytics and reports for kitchens |
 
-## Public repositories
-
-| Repository | Description |
-| --- | --- |
-| [ekotek-vision-prototype](https://github.com/ekotek-dz/ekotek-vision-prototype) | Proof of concept of the vision system, trained on public datasets: food segmentation, contamination alarm, camera + scale fusion, CPU edge deployment (ONNX, OpenVINO, C++) and an MQTT → PostgreSQL → REST data service. Includes a technical report. |
-
 ## Status
 
 EKOTEK is an early-stage startup from Algeria. The vision prototype is public; the product itself, the bin design and any client data stay private.
@@ -45,7 +39,7 @@ Python · PyTorch · Ultralytics YOLO · OpenCV · ONNX Runtime · OpenVINO · C
 
 ## Get in touch
 
-- LinkedIn: [EKOTEK](https://www.linkedin.com/company/ekotek-dz)
-- Email: contact@ekotek.example <!-- TODO: replace with the real address -->
+- LinkedIn: [EKOTEK](https://www.linkedin.com/company/ekotek-ai)
+- Email: ekotekdz@gmail.com <!-- TODO: replace with the real address -->
 
 <sub>🌱 Building in Algeria, for kitchens everywhere.</sub>
